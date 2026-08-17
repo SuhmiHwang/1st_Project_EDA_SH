@@ -12,7 +12,7 @@ conducted for buyer client Nicole Johnson:
 
 | File / Folder                                                   | Description                                                                                                              |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [**01 - Data cleaningt**](01_assignment.md)                      | The project brief: the dataset, your tasks, deliverables, and the list of clients to choose from.                        |
+| [**01 - Data cleaning**](01_assignment.md)                      | The project brief: the dataset, your tasks, deliverables, and the list of clients to choose from.                        |
 | [**02 - EDA**]( 02_Relationships_in_the_data.ipynb.)                                | Main EDA notebook: hypothesis testing, analysis, findings. |
 | [**03 - presentation**](03_EDA_1st_Project_Suhmi_Hwang.pdf)                                 | Starter notebook for your exploratory data analysis.                                                                     |
                           
